@@ -1,0 +1,12 @@
+@import url('https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i,800,800i');
+
+.separa-10{height: 10px;}
+.separa-20{height: 20px;}
+.separa-30{height: 30px;}
+.separa-40{height: 40px;}
+
+header{
+    background-color: #cecece;
+    padding: 2em;
+    text-align: center;
+}
